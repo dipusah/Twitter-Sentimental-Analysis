@@ -4,8 +4,8 @@ https://ai.stanford.edu/~amaas/data/sentiment/
 
 PROCESS 
 
-1  Data Import
-2  Data Preprocessing
+1  Data Import \n
+2  Data Preprocessing \n
 3  Feature Engineering
 4  Feature Selection
 5  Model Architecture
