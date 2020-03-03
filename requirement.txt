@@ -1,0 +1,9 @@
+>Numpy
+>pandas
+>re
+>os
+>sklearn
+>tensorflow
+>nltk
+>ploty
+>warnings
